@@ -1,6 +1,6 @@
 # Feed Reader Testing
 
-This tests a provided web application code using a JavaScript testing framework, Jasmine.
+This tests a provided web application code using a JavaScript testing framework, **Jasmine**.
 
 ## Getting Started
 
